@@ -1,2 +1,2 @@
 # Git-Automation
-Automation of Github staging and commiting changes
+Automation of staging and commiting changes to Github.
